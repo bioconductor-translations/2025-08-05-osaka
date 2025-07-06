@@ -354,7 +354,7 @@ of code below the Schedule `<h2>` header below with
 
 <h2 id="materials">教材</h2>
 
-<p>ワークショップの教材はこちらから見られます：<a href = "https://swcarpentry-ja.github.io/shell-novice/">Unixシェル</a>、<a href = "https://swcarpentry-ja.github.io/git-novice/">git</a>、<a href = "https://swcarpentry-ja.github.io/r-novice-gapminder/">R</a>。</p>
+<p>ワークショップの教材はこちらから見られます：<a href = "https://bioconductor-translations.github.io/bioc-intro-ja/">Introduction to data analysis with R and Bioconductor</a>、<a href = "https://carpentries-incubator.github.io/bioc-intro/">Introduction to data analysis with R and Bioconductor(現在翻訳中です)</a>。</p>
 
 <hr/>
 
