@@ -217,11 +217,11 @@ Display the contact email address set in the configuration file.
 {% endcomment %}
 <p id="contact">
   <strong>連絡先:</strong>
-  お問い合わせは
+  講習内容に関する問い合わせは
   {% if page.email %}
   {% for email in page.email %}
   {% if forloop.last and page.email.size > 1 %}
-  または
+  会場に関する問い合わせは
   {% else %}
   {% unless forloop.first %}
   ,
