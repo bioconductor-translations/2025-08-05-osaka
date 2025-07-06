@@ -360,7 +360,7 @@ of code below the Schedule `<h2>` header below with
 
 <h2 id="slides">スライド</h2>
 
-<p>ワークショップのスライドは<a href = "https://swcarpentry-ja.github.io/2024-11-25-chiba-slides/">こちら</a>から見られます。</p>
+<p>ワークショップのスライドは<a href = "https://github.com/bioconductor-translations/2025-08-05-osaka-slides">こちら</a>から見られます。(現在作成中のためまだスライドソースコードリポジトリへのリンクの状態です。しばしお待ち下さい。)</p>
 
 <hr/>
 
