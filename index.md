@@ -311,10 +311,14 @@ available at https://codimd.carpentries.org
 SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
 <h2 id="surveys">アンケート</h2>
-<p>ワークショップの前後に、これらのアンケートに必ずお答えください。</p>
-<p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">ワークショップ前のアンケート</a></p>
-<p><a href="{{ site.post_survey }}{{ site.github.project_title }}">ワークショップ後のアンケート</a></p>
+<p>これらのアンケートにお答えください。</p>
+<p><a href="https://www.jsbi.org/activity/koubo/questionnaires/">JSBiのアンケート(事後)</a></p>
+<p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">The Carpentriesのアンケート(事前)</a></p>
+<p><a href="{{ site.post_survey }}{{ site.github.project_title }}">The Carpentriesのアンケート(事後)</a></p>
 <hr/>
+
+<h2 id="membership">JSBiへの入会案内</h2>
+<p><a href="https://www.jsbi.org/membership/">JSBiへの入会</a>をご検討いただけますと幸いです。</p>
 
 {% comment %}
 SCHEDULE
