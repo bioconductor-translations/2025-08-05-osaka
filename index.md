@@ -402,6 +402,8 @@ please preview your site before committing, and make sure to run
 
 <p>なお、<strong>インストールの説明は現時点、英語のみとなっています</strong>（翻訳を貢献したい方は是非インストラクターまでご連絡お願いします（<a href='mailto:joelnitta@chiba-u.jp'>joelnitta@chiba-u.jp</a>）。</p>
 
+<p> <strong>2025年7月23日追記</strong> BashシェルとGitのセットアップ項目は本ワークショップには必須ではないため削除しました。<strong>既にインストールされた方へ: </strong>BashやGitは有用なので残しておいて頂いて問題ありません。アンインストールの必要はありません。</p>
+
 {% comment %}
 For online workshops, the section below provides:
 - installation instructions for the Zoom client
