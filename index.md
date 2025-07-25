@@ -311,10 +311,8 @@ available at https://codimd.carpentries.org
 SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
 <h2 id="surveys">アンケート</h2>
-<p>これらのアンケートにお答えください。</p>
+<p>アンケートにお答えください。</p>
 <p><a href="https://www.jsbi.org/activity/koubo/questionnaires/">JSBiのアンケート(事後)</a></p>
-<p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">The Carpentriesのアンケート(事前)</a></p>
-<p><a href="{{ site.post_survey }}{{ site.github.project_title }}">The Carpentriesのアンケート(事後)</a></p>
 <hr/>
 
 <h2 id="membership">JSBiへの入会案内</h2>
@@ -358,13 +356,13 @@ of code below the Schedule `<h2>` header below with
 
 <h2 id="materials">教材</h2>
 
-<p>ワークショップの教材はこちらから見られます：<a href = "https://bioconductor-translations.github.io/bioc-intro-ja/">Introduction to data analysis with R and Bioconductor</a>、<a href = "https://carpentries-incubator.github.io/bioc-intro/">Introduction to data analysis with R and Bioconductor(現在翻訳中です)</a>。</p>
+<p>ワークショップの教材はこちらから見ることができます：<a href = "https://bioconductor-translations.github.io/bioc-intro-ja/">R と Bioconductor によるデータ分析入門</a>、<a href = "https://bioconductor-translations.github.io/bioc-project-ja/">Bioconductor プロジェクト</a>。</p>
 
 <hr/>
 
 <h2 id="slides">スライド</h2>
 
-<p>ワークショップのスライドは<a href = "https://github.com/bioconductor-translations/2025-08-05-osaka-slides">こちら</a>から見られます。(現在作成中のためまだスライドソースコードリポジトリへのリンクの状態です。しばしお待ち下さい。)</p>
+<p>ワークショップのスライドは<a href = "https://github.com/bioconductor-translations/2025-08-05-osaka-slides">こちら</a>から見ることができます。</p>
 
 <hr/>
 
@@ -400,7 +398,7 @@ please preview your site before committing, and make sure to run
   「構成の問題と解決策」のwikiページ</a>上で、インストール中に発生しがちな問題のリストを管理しています。
 </p>
 
-<p>なお、<strong>インストールの説明は現時点、英語のみとなっています</strong>（翻訳を貢献したい方は是非インストラクターまでご連絡お願いします（<a href='mailto:joelnitta@chiba-u.jp'>joelnitta@chiba-u.jp</a>）。</p>
+<p>なお、<strong>インストールの説明は現時点、英語のみとなっています</strong>（翻訳に貢献したい方は是非インストラクターまでご連絡お願いします（<a href='mailto:knishida@riken.jp'>knishida@riken.jp</a>）。</p>
 
 <p> <strong>2025年7月23日追記</strong> BashシェルとGitのセットアップ項目は本ワークショップには必須ではないため削除しました。<strong>既にインストールされた方へ: </strong>BashやGitは有用なので残しておいて頂いて問題ありません。アンインストールの必要はありません。</p>
 
